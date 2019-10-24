@@ -100,7 +100,7 @@ module.exports = {
         }
     },
     devServer: {
-        port: 3032,             // 端口
+        port: 3088,             // 端口
         open: true,             // 自动打开浏览器
         hot: true,               // 开启热更新
         overlay: true, // 浏览器页面上显示错误
